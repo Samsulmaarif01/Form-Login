@@ -22,7 +22,7 @@ body {
   max-width: 100%;
 }
 .left {
-  background-image: url("/assets/login\ image.jpg");
+  background-image: url("./assets/login%20image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
